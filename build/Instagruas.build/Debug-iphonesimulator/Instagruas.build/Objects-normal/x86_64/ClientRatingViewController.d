@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/qasimnazir/Xcode/Instagruas/Instagruas/ClientRatingViewController.m \
+  /Users/qasimnazir/Xcode/Instagruas/Instagruas/ClientRatingViewController.h \
+  /Users/qasimnazir/Xcode/Instagruas/Instagruas/ViewController.h \
+  /Users/qasimnazir/Xcode/Instagruas/Pods/Firebase/Core/Sources/module.modulemap \
+  /Users/qasimnazir/Xcode/Instagruas/Instagruas/HCSStarRatingView.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDecoder.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h \
+  /Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h \
+  /Users/qasimnazir/Xcode/Instagruas/Instagruas/SessionViewController.h

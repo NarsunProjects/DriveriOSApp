@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>768443142968-akuamsre2io1fmuk8m965u52d020l2vu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.768443142968-akuamsre2io1fmuk8m965u52d020l2vu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyWwV0vlXOzY7LihqHlj_EAkeaxesmANU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>768443142968</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Alberto.Instagruas.Drivers</string>
+	<key>PROJECT_ID</key>
+	<string>instagruas-driver-67f54</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instagruas-driver-67f54.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:768443142968:ios:50eec908fffaec46</string>
+	<key>DATABASE_URL</key>
+	<string>https://instagruas-driver-67f54.firebaseio.com</string>
+</dict>
+</plist>

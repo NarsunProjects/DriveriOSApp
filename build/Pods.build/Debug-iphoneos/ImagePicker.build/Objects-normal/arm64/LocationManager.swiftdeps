@@ -1,0 +1,382 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LocationManager"
+provides-nominal:
+- "C11ImagePicker15LocationManager"
+provides-member:
+- ["C11ImagePicker15LocationManager", ""]
+provides-dynamic-lookup:
+- "stopUpdatingLocation"
+- "locationManager"
+- "locationManager"
+- "locationManager"
+- "startUpdatingLocation"
+- "latestLocation"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "=="
+- "LocationManager"
+- "CLAuthorizationStatus"
+- "CLLocationManager"
+- "CLLocationManagerDelegate"
+- !private "||"
+- !private "<"
+- "NSObject"
+- "CLLocation"
+- !private "kCLLocationAccuracyBest"
+depends-member:
+- ["Ps9AnyObject", "CLLocationManager"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "desiredAccuracy"]
+- !private ["Ps9AnyObject", "horizontalAccuracy"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "kCLLocationAccuracyBest"]
+- ["Ps9AnyObject", "latestLocation"]
+- ["Ps9AnyObject", "locationManager"]
+- ["Ps9AnyObject", "locationManagerDidPauseLocationUpdates"]
+- ["Ps9AnyObject", "locationManagerDidResumeLocationUpdates"]
+- ["Ps9AnyObject", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps9AnyObject", "requestWhenInUseAuthorization"]
+- ["Ps9AnyObject", "startUpdatingLocation"]
+- ["Ps9AnyObject", "stopUpdatingLocation"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- !private ["Sa", "first"]
+- !private ["Sa", "sorted"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "first"]
+- !private ["Ps23BidirectionalCollection", "sorted"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "first"]
+- !private ["Ps22BidirectionalIndexable", "sorted"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["OSC21CLAuthorizationStatus", "RawValue"]
+- !private ["OSC21CLAuthorizationStatus", "authorizedAlways"]
+- !private ["OSC21CLAuthorizationStatus", "authorizedWhenInUse"]
+- ["OSC21CLAuthorizationStatus", "deinit"]
+- !private ["CSo10CLLocation", "deinit"]
+- !private ["CSo10CLLocation", "horizontalAccuracy"]
+- ["CSo17CLLocationManager", "deinit"]
+- !private ["CSo17CLLocationManager", "delegate"]
+- !private ["CSo17CLLocationManager", "desiredAccuracy"]
+- ["CSo17CLLocationManager", "init"]
+- !private ["CSo17CLLocationManager", "requestWhenInUseAuthorization"]
+- !private ["CSo17CLLocationManager", "startUpdatingLocation"]
+- !private ["CSo17CLLocationManager", "stopUpdatingLocation"]
+- ["PSo25CLLocationManagerDelegate", "CLLocationManager"]
+- !private ["PSo25CLLocationManagerDelegate", "kCLLocationAccuracyBest"]
+- !private ["PSo25CLLocationManagerDelegate", "latestLocation"]
+- ["PSo25CLLocationManagerDelegate", "locationManager"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerDidPauseLocationUpdates"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerDidResumeLocationUpdates"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo25CLLocationManagerDelegate", ""]
+- ["Ps7CVarArg", "CLLocationManager"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "desiredAccuracy"]
+- !private ["Ps7CVarArg", "first"]
+- !private ["Ps7CVarArg", "horizontalAccuracy"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "kCLLocationAccuracyBest"]
+- ["Ps7CVarArg", "latestLocation"]
+- ["Ps7CVarArg", "locationManager"]
+- ["Ps7CVarArg", "locationManagerDidPauseLocationUpdates"]
+- ["Ps7CVarArg", "locationManagerDidResumeLocationUpdates"]
+- ["Ps7CVarArg", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps7CVarArg", "requestWhenInUseAuthorization"]
+- !private ["Ps7CVarArg", "sorted"]
+- ["Ps7CVarArg", "startUpdatingLocation"]
+- ["Ps7CVarArg", "stopUpdatingLocation"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "first"]
+- !private ["Ps10Collection", "sorted"]
+- ["Ps28CustomDebugStringConvertible", "CLLocationManager"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "desiredAccuracy"]
+- !private ["Ps28CustomDebugStringConvertible", "first"]
+- !private ["Ps28CustomDebugStringConvertible", "horizontalAccuracy"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "kCLLocationAccuracyBest"]
+- ["Ps28CustomDebugStringConvertible", "latestLocation"]
+- ["Ps28CustomDebugStringConvertible", "locationManager"]
+- ["Ps28CustomDebugStringConvertible", "locationManagerDidPauseLocationUpdates"]
+- ["Ps28CustomDebugStringConvertible", "locationManagerDidResumeLocationUpdates"]
+- ["Ps28CustomDebugStringConvertible", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps28CustomDebugStringConvertible", "requestWhenInUseAuthorization"]
+- !private ["Ps28CustomDebugStringConvertible", "sorted"]
+- ["Ps28CustomDebugStringConvertible", "startUpdatingLocation"]
+- ["Ps28CustomDebugStringConvertible", "stopUpdatingLocation"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "first"]
+- !private ["Ps17CustomReflectable", "sorted"]
+- ["Ps23CustomStringConvertible", "CLLocationManager"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "desiredAccuracy"]
+- !private ["Ps23CustomStringConvertible", "first"]
+- !private ["Ps23CustomStringConvertible", "horizontalAccuracy"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "kCLLocationAccuracyBest"]
+- ["Ps23CustomStringConvertible", "latestLocation"]
+- ["Ps23CustomStringConvertible", "locationManager"]
+- ["Ps23CustomStringConvertible", "locationManagerDidPauseLocationUpdates"]
+- ["Ps23CustomStringConvertible", "locationManagerDidResumeLocationUpdates"]
+- ["Ps23CustomStringConvertible", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps23CustomStringConvertible", "requestWhenInUseAuthorization"]
+- !private ["Ps23CustomStringConvertible", "sorted"]
+- ["Ps23CustomStringConvertible", "startUpdatingLocation"]
+- ["Ps23CustomStringConvertible", "stopUpdatingLocation"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Sd", "deinit"]
+- ["Ps9Equatable", "CLLocationManager"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "authorizedAlways"]
+- !private ["Ps9Equatable", "authorizedWhenInUse"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "desiredAccuracy"]
+- !private ["Ps9Equatable", "horizontalAccuracy"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "kCLLocationAccuracyBest"]
+- ["Ps9Equatable", "latestLocation"]
+- ["Ps9Equatable", "locationManager"]
+- ["Ps9Equatable", "locationManagerDidPauseLocationUpdates"]
+- ["Ps9Equatable", "locationManagerDidResumeLocationUpdates"]
+- ["Ps9Equatable", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps9Equatable", "requestWhenInUseAuthorization"]
+- ["Ps9Equatable", "startUpdatingLocation"]
+- ["Ps9Equatable", "stopUpdatingLocation"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "first"]
+- !private ["Ps25ExpressibleByArrayLiteral", "sorted"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "CLLocationManager"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "authorizedAlways"]
+- !private ["Ps8Hashable", "authorizedWhenInUse"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "desiredAccuracy"]
+- !private ["Ps8Hashable", "horizontalAccuracy"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "kCLLocationAccuracyBest"]
+- ["Ps8Hashable", "latestLocation"]
+- ["Ps8Hashable", "locationManager"]
+- ["Ps8Hashable", "locationManagerDidPauseLocationUpdates"]
+- ["Ps8Hashable", "locationManagerDidResumeLocationUpdates"]
+- ["Ps8Hashable", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps8Hashable", "requestWhenInUseAuthorization"]
+- ["Ps8Hashable", "startUpdatingLocation"]
+- ["Ps8Hashable", "stopUpdatingLocation"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "first"]
+- !private ["Ps9Indexable", "sorted"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "first"]
+- !private ["Ps13IndexableBase", "sorted"]
+- !private ["Vs16IndexingIterator", "Element"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- ["C11ImagePicker15LocationManager", "CLAuthorizationStatus"]
+- ["C11ImagePicker15LocationManager", "CLLocation"]
+- ["C11ImagePicker15LocationManager", "CLLocationManager"]
+- ["C11ImagePicker15LocationManager", "deinit"]
+- ["C11ImagePicker15LocationManager", "init"]
+- !private ["C11ImagePicker15LocationManager", "kCLLocationAccuracyBest"]
+- ["C11ImagePicker15LocationManager", "latestLocation"]
+- ["C11ImagePicker15LocationManager", "locationManager"]
+- ["C11ImagePicker15LocationManager", "locationManagerDidPauseLocationUpdates"]
+- ["C11ImagePicker15LocationManager", "locationManagerDidResumeLocationUpdates"]
+- ["C11ImagePicker15LocationManager", "locationManagerShouldDisplayHeadingCalibration"]
+- ["C11ImagePicker15LocationManager", "startUpdatingLocation"]
+- ["C11ImagePicker15LocationManager", "stopUpdatingLocation"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "first"]
+- !private ["Ps17MutableCollection", "sorted"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "first"]
+- !private ["Ps16MutableIndexable", "sorted"]
+- !private ["PSo8NSCoding", "horizontalAccuracy"]
+- !private ["PSo9NSCopying", "horizontalAccuracy"]
+- ["CSo8NSObject", "CLAuthorizationStatus"]
+- ["CSo8NSObject", "CLLocation"]
+- ["CSo8NSObject", "CLLocationManager"]
+- ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "desiredAccuracy"]
+- !private ["CSo8NSObject", "horizontalAccuracy"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "kCLLocationAccuracyBest"]
+- ["CSo8NSObject", "latestLocation"]
+- ["CSo8NSObject", "locationManager"]
+- ["CSo8NSObject", "locationManagerDidPauseLocationUpdates"]
+- ["CSo8NSObject", "locationManagerDidResumeLocationUpdates"]
+- ["CSo8NSObject", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["CSo8NSObject", "requestWhenInUseAuthorization"]
+- ["CSo8NSObject", "startUpdatingLocation"]
+- ["CSo8NSObject", "stopUpdatingLocation"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "CLLocationManager"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "desiredAccuracy"]
+- !private ["PSo16NSObjectProtocol", "horizontalAccuracy"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "kCLLocationAccuracyBest"]
+- ["PSo16NSObjectProtocol", "latestLocation"]
+- ["PSo16NSObjectProtocol", "locationManager"]
+- ["PSo16NSObjectProtocol", "locationManagerDidPauseLocationUpdates"]
+- ["PSo16NSObjectProtocol", "locationManagerDidResumeLocationUpdates"]
+- ["PSo16NSObjectProtocol", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo16NSObjectProtocol", "requestWhenInUseAuthorization"]
+- ["PSo16NSObjectProtocol", "startUpdatingLocation"]
+- ["PSo16NSObjectProtocol", "stopUpdatingLocation"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "horizontalAccuracy"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "first"]
+- !private ["Ps22RandomAccessCollection", "sorted"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "first"]
+- !private ["Ps21RandomAccessIndexable", "sorted"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "first"]
+- !private ["Ps26RangeReplaceableCollection", "sorted"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "first"]
+- !private ["Ps25RangeReplaceableIndexable", "sorted"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["Ps16RawRepresentable", "authorizedAlways"]
+- !private ["Ps16RawRepresentable", "authorizedWhenInUse"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "first"]
+- !private ["Ps8Sequence", "sorted"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "first"]
+- !private ["Ps14_ArrayProtocol", "sorted"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "first"]
+- !private ["Ps24_DestructorSafeContainer", "sorted"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "CLLocationManager"]
+- !private ["Ps9_Hashable", "RawValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "authorizedAlways"]
+- !private ["Ps9_Hashable", "authorizedWhenInUse"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "desiredAccuracy"]
+- !private ["Ps9_Hashable", "horizontalAccuracy"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "kCLLocationAccuracyBest"]
+- ["Ps9_Hashable", "latestLocation"]
+- ["Ps9_Hashable", "locationManager"]
+- ["Ps9_Hashable", "locationManagerDidPauseLocationUpdates"]
+- ["Ps9_Hashable", "locationManagerDidResumeLocationUpdates"]
+- ["Ps9_Hashable", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["Ps9_Hashable", "requestWhenInUseAuthorization"]
+- ["Ps9_Hashable", "startUpdatingLocation"]
+- ["Ps9_Hashable", "stopUpdatingLocation"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "first"]
+- !private ["Ps21_ObjectiveCBridgeable", "sorted"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Sb"
+- "OSC21CLAuthorizationStatus"
+- !private "CSo10CLLocation"
+- "CSo17CLLocationManager"
+- "PSo25CLLocationManagerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- !private "Ps16IteratorProtocol"
+- "C11ImagePicker15LocationManager"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/ImagePicker/ImagePicker-umbrella.h"
+- "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphoneos/ImagePicker.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "5ff6838e309c7db803c68281973cfa00"

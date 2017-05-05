@@ -1,0 +1,151 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Helper"
+provides-nominal:
+- "V11ImagePicker6Helper"
+provides-member:
+- ["V11ImagePicker6Helper", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CGAffineTransform"
+- !private "UIDevice"
+- !private "M_PI"
+- "AVCaptureVideoOrientation"
+- !private "M_PI_2"
+- "Helper"
+- !private "CGFloat"
+- !private "-"
+depends-member:
+- ["OSC25AVCaptureVideoOrientation", "deinit"]
+- !private ["OSC25AVCaptureVideoOrientation", "landscapeLeft"]
+- !private ["OSC25AVCaptureVideoOrientation", "landscapeRight"]
+- !private ["OSC25AVCaptureVideoOrientation", "portrait"]
+- !private ["OSC25AVCaptureVideoOrientation", "portraitUpsideDown"]
+- !private ["Ps16AbsoluteValuable", "init"]
+- !private ["Ps9AnyObject", "current"]
+- !private ["Ps9AnyObject", "orientation"]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- ["VSC17CGAffineTransform", "deinit"]
+- !private ["VSC17CGAffineTransform", "identity"]
+- !private ["VSC17CGAffineTransform", "init"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "init"]
+- !private ["Ps7CVarArg", "current"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "orientation"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "orientation"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "orientation"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "identity"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "landscapeLeft"]
+- ["Ps9Equatable", "landscapeRight"]
+- !private ["Ps9Equatable", "orientation"]
+- ["Ps9Equatable", "portrait"]
+- ["Ps9Equatable", "portraitUpsideDown"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps13FloatingPoint", "init"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "landscapeLeft"]
+- ["Ps8Hashable", "landscapeRight"]
+- !private ["Ps8Hashable", "orientation"]
+- ["Ps8Hashable", "portrait"]
+- ["Ps8Hashable", "portraitUpsideDown"]
+- ["V11ImagePicker6Helper", "AVCaptureVideoOrientation"]
+- ["V11ImagePicker6Helper", "CGAffineTransform"]
+- !private ["V11ImagePicker6Helper", "CGFloat"]
+- !private ["V11ImagePicker6Helper", "M_PI"]
+- !private ["V11ImagePicker6Helper", "M_PI_2"]
+- !private ["V11ImagePicker6Helper", "UIDevice"]
+- ["V11ImagePicker6Helper", "init"]
+- ["V11ImagePicker6Helper", "rotationTransform"]
+- ["V11ImagePicker6Helper", "videoOrientation"]
+- !private ["CSo8NSObject", "current"]
+- !private ["CSo8NSObject", "orientation"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- !private ["PSo16NSObjectProtocol", "orientation"]
+- ["Ps16RawRepresentable", "landscapeLeft"]
+- ["Ps16RawRepresentable", "landscapeRight"]
+- ["Ps16RawRepresentable", "portrait"]
+- ["Ps16RawRepresentable", "portraitUpsideDown"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- !private ["CSo8UIDevice", "current"]
+- ["CSo8UIDevice", "deinit"]
+- !private ["CSo8UIDevice", "orientation"]
+- ["OSC19UIDeviceOrientation", "deinit"]
+- ["OSC19UIDeviceOrientation", "landscapeLeft"]
+- ["OSC19UIDeviceOrientation", "landscapeRight"]
+- ["OSC19UIDeviceOrientation", "portrait"]
+- ["OSC19UIDeviceOrientation", "portraitUpsideDown"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "landscapeLeft"]
+- ["Ps9_Hashable", "landscapeRight"]
+- !private ["Ps9_Hashable", "orientation"]
+- ["Ps9_Hashable", "portrait"]
+- ["Ps9_Hashable", "portraitUpsideDown"]
+- !private ["Ps21_ObjectiveCBridgeable", "identity"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- "OSC25AVCaptureVideoOrientation"
+- !private "Ps16AbsoluteValuable"
+- !private "Ps9AnyObject"
+- !private "Ps19BinaryFloatingPoint"
+- "VSC17CGAffineTransform"
+- "V12CoreGraphics7CGFloat"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "V11ImagePicker6Helper"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "Ps16RawRepresentable"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "CSo8UIDevice"
+- "OSC19UIDeviceOrientation"
+- !private "Ps15_CVarArgAligned"
+- !private "Ps22_CVarArgPassedAsDouble"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/ImagePicker/ImagePicker-umbrella.h"
+- "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/ImagePicker.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "6d30872af0b9d8a68760a8d3f9397d12"

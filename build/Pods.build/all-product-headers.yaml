@@ -1,0 +1,672 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFAutoPurgingImageCache.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFImageDownloader.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/DGActivityIndicatorView/DGActivityIndicatorView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorAnimationProtocol.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/DGActivityIndicatorAnimationProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallBeatAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallBeatAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallClipRotateAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallClipRotateAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallClipRotateMultipleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallClipRotateMultipleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallClipRotatePulseAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallClipRotatePulseAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallGridBeatAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallGridBeatAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallGridPulseAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallGridPulseAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallPulseAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallPulseAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallPulseSyncAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallPulseSyncAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallRotateAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallRotateAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallScaleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallScaleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallScaleMultipleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallScaleMultipleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallScaleRippleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallScaleRippleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallScaleRippleMultipleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallScaleRippleMultipleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallSpinFadeLoader.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallSpinFadeLoader.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallTrianglePathAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallTrianglePathAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallZigZagAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallZigZagAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorBallZigZagDeflectAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorBallZigZagDeflectAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorCookieTerminatorAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorCookieTerminatorAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorDoubleBounceAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorDoubleBounceAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorFiveDotsAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorFiveDotsAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorLineScaleAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorLineScaleAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorLineScalePartyAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorLineScalePartyAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorLineScalePulseOutAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorLineScalePulseOutAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorLineScalePulseOutRapidAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorLineScalePulseOutRapidAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorNineDotsAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorNineDotsAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorRotatingSandglassAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorRotatingSandglassAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorRotatingSquaresAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorRotatingSquaresAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorRotatingTrigonAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorRotatingTrigonAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorThreeDotsAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorThreeDotsAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorTriangleSkewSpinAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorTriangleSkewSpinAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorTriplePulseAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorTriplePulseAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorTripleRingsAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorTripleRingsAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorTwoDotsAnimation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/Animations/DGActivityIndicatorTwoDotsAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorView-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/DGActivityIndicatorView/DGActivityIndicatorView.framework/Headers/DGActivityIndicatorView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorView-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/DGActivityIndicatorView/DGActivityIndicatorView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DGActivityIndicatorView.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/DGActivityIndicatorView/DGActivityIndicatorView/DGActivityIndicatorView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/DGActivityIndicatorView/DGActivityIndicatorView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/DGActivityIndicatorView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMLogger.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/GoogleToolboxForMac/Foundation/GTMLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/IQKeyboardManager/IQKeyboardManager.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQBarButtonItem.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/IQKeyboardManager/IQKeyboardManager.framework/Headers/IQKeyboardManager-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/IQKeyboardManager/IQKeyboardManager-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstants.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstantsInternal.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstantsInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardReturnKeyHandler.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardReturnKeyHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQNSArray+Sort.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQNSArray+Sort.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQPreviousNextView.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQPreviousNextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTextView.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQTextView/IQTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTitleBarButtonItem.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQToolbar.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIScrollView+Additions.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIScrollView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUITextFieldView+Additions.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUITextFieldView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+Hierarchy.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIView+Hierarchy.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+IQKeyboardToolbar.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIViewController+Additions.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIViewController+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIWindow+Hierarchy.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIWindow+Hierarchy.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/IQKeyboardManager/IQKeyboardManager.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/IQKeyboardManager.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/ImagePicker/ImagePicker.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ImagePicker-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/ImagePicker/ImagePicker.framework/Headers/ImagePicker-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ImagePicker-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/ImagePicker/ImagePicker-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/ImagePicker/ImagePicker.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/ImagePicker.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/Pods_Instagruas.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Instagruas-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/Pods-Instagruas/Pods-Instagruas-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Instagruas-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/Pods_Instagruas.framework/Headers/Pods_Instagruas-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/Pods_Instagruas.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/Pods-Instagruas.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SAMKeychain/SAMKeychain.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SAMKeychain-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SAMKeychain/SAMKeychain.framework/Headers/SAMKeychain-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SAMKeychain-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/SAMKeychain/SAMKeychain-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SAMKeychain.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SAMKeychain/Sources/SAMKeychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "SAMKeychainQuery.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SAMKeychain/Sources/SAMKeychainQuery.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SAMKeychain/SAMKeychain.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/SAMKeychain.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qasimnazir/Xcode/Instagruas/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qasimnazir/Xcode/Instagruas/build/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

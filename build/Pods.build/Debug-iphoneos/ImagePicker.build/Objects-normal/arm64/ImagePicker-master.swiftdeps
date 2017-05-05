@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "992d747346a1c63a3fcada9ef7d66ed8"
+build_time: [539964664, 859054000]
+inputs:
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/AssetManager.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/BottomView/BottomContainerView.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/BottomView/ButtonPicker.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/CameraView/CameraMan.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/CameraView/CameraView.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/Configuration.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/Extensions/ConstraintsSetup.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/Helper.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/ImageGallery/ImageGalleryLayout.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/ImageGallery/ImageGalleryView.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/ImageGallery/ImageGalleryViewCell.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/ImageGallery/ImageGalleryViewDataSource.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/ImagePickerController.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/BottomView/ImageStack.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/LocationManager.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/BottomView/StackView.swift": [536241622, 0]
+  "/Users/qasimnazir/Xcode/Instagruas/Pods/ImagePicker/Source/TopView/TopView.swift": [536241622, 0]
