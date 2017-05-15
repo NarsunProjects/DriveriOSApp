@@ -10,7 +10,7 @@
 
 @implementation StaticData
 
-@synthesize deviceID, baseUrl, fb_id, Email,  mem_id, user_name ,EventCity,mem_password, user_type, serverTimeout, noInternetMessage, secureKey,EveCount,City,Address,State,mLat,mLon,isTrue,staff_name;
+@synthesize deviceID, baseUrl, fb_id, Email,  mem_id, user_name ,EventCity,mem_password, user_type, serverTimeout, noInternetMessage, secureKey,EveCount,City,Address,State,mLat,mLon,isTrue,staff_name,Switch;
 
 @synthesize mem_phone;
 

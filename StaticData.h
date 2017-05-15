@@ -43,6 +43,7 @@
 @property (nonatomic, retain) NSString *State;
 @property (nonatomic, retain) NSString *staff_name;
 @property (nonatomic, retain) NSString *Tokenn;
+@property (nonatomic, retain) NSString *Switch;
 @property  BOOL isTrue;
 
 @property  double mLat;
